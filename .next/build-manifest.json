@@ -19,14 +19,6 @@
       "static/runtime/webpack.js",
       "static/runtime/main.js"
     ],
-    "/contactus": [
-      "static/runtime/webpack.js",
-      "static/runtime/main.js"
-    ],
-    "/dashboard": [
-      "static/runtime/webpack.js",
-      "static/runtime/main.js"
-    ],
     "/": [
       "static/runtime/webpack.js",
       "static/runtime/main.js"
